@@ -1,0 +1,15 @@
+{
+  "name": "simple-hash",
+  "version": "1.0.0",
+  "description": "Demonstrates a simple version of the concept of hashing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
